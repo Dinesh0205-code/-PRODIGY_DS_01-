@@ -1,4 +1,4 @@
-###Prodigy infotech data science internship Task 1:
+### Prodigy infotech data science internship Task 1:
 
 create bar chart to visualize the distribution of a categorical or continous variable such as the distribution of ages or genders in a population
 
@@ -37,7 +37,7 @@ For instance, if you have a dataset of individuals with their ages recorded, you
 
 In the case of a dataset that includes gender information, a bar chart can display the count of individuals for each gender category. This visual can help identify gender proportions and potential biases in the dataset
 
-###Conclusion
+### Conclusion
 In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
 
 Thank you for reviewing my submission!
@@ -47,5 +47,3 @@ for any inquires or feedback regarding this project
 .Email
 dineshvenkat0205@gmail.com
 
-
-contact
